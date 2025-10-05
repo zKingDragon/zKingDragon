@@ -89,7 +89,7 @@ For the full list, check out my repositories on <a href="https://github.com/zKin
   <a href="https://github.com/zKingDragon">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/daniel-pereira-dos-santos">
+  <a href="www.linkedin.com/in/daniel-pereira-js">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
