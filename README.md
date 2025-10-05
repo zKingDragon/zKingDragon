@@ -65,20 +65,20 @@
 ## 🚩 Featured Projects
 
 Here are some of my main projects.  
-For the full list, check out my repositories on <a href="https://github.com/SeuUsuarioGitHub" target="_blank">GitHub</a>!
+For the full list, check out my repositories on <a href="https://github.com/zKingDragon" target="_blank">GitHub</a>!
 
-- <b><a href="https://github.com/SeuUsuarioGitHub/EtecNotes">EtecNotes</a></b> <sub>(React, Node.js, Firebase, Tailwind CSS)</sub> — Collaborative platform for students and teachers from the Etec network (TCC Project).
-- <b><a href="https://github.com/SeuUsuarioGitHub/Pet-Baronesa">Pet Baronesa</a></b> <sub>(HTML, CSS, JS, Node.js, Firebase)</sub> — Website for a real pet shop with delivery and online catalog.
-- <b><a href="https://github.com/SeuUsuarioGitHub/BooKicket">BooKicket</a></b> <sub>(Flutter, Node.js, Express, MongoDB)</sub> — Digital reading platform focused on books, manga and HQs.
-- <b><a href="https://github.com/SeuUsuarioGitHub/SaaSFY">SaaSFY</a></b> <sub>(HTML, CSS, JS, Firebase)</sub> — SaaS library to indie enterprises publish own project.
+- <b><a href="https://github.com/zKingDragon/EtecNotes">EtecNotes</a></b> <sub>(React, Node.js, Firebase, Tailwind CSS)</sub> — Collaborative platform for students and teachers from the Etec network (TCC Project).
+- <b><a href="https://github.com/zKingDragon/Pet-Baronesa">Pet Baronesa</a></b> <sub>(HTML, CSS, JS, Node.js, Firebase)</sub> — Website for a real pet shop with delivery and online catalog.
+- <b><a href="https://github.com/zKingDragon/BooKicket">BooKicket</a></b> <sub>(Flutter, Node.js, Express, MongoDB)</sub> — Digital reading platform focused on books, manga and HQs.
+- <b><a href="https://github.com/zKingDragon/SaaSFY">SaaSFY</a></b> <sub>(HTML, CSS, JS, Firebase)</sub> — SaaS library to indie enterprises publish own project.
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeuUsuarioGitHub&show_icons=true&theme=radical" alt="Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuarioGitHub&layout=compact&theme=radical" alt="Top Langs"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zKingDragon&show_icons=true&theme=radical" alt="Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zKingDragon&layout=compact&theme=radical" alt="Top Langs"/>
 </div>
 
 ---
@@ -86,7 +86,7 @@ For the full list, check out my repositories on <a href="https://github.com/SeuU
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/SeuUsuarioGitHub">
+  <a href="https://github.com/zKingDragon">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/daniel-pereira-dos-santos">
