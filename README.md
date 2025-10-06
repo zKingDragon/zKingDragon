@@ -69,7 +69,7 @@ For the full list, check out my repositories on <a href="https://github.com/zKin
 
 - <b><a href="https://github.com/zKingDragon/EtecNotes">EtecNotes</a></b> <sub>(React, Node.js, Firebase, Tailwind CSS)</sub> — Collaborative platform for students and teachers from the Etec network (TCC Project).
 - <b><a href="https://github.com/zKingDragon/Pet-Baronesa">Pet Baronesa</a></b> <sub>(HTML, CSS, JS, Node.js, Firebase)</sub> — Website for a real pet shop with delivery and online catalog.
-- <b><a href="https://github.com/zKingDragon/BooKicket">BooKicket</a></b> <sub>(Flutter, Node.js, Express, MongoDB)</sub> — Digital reading platform focused on books, manga and HQs.
+- <b><a href="https://github.com/zKingDragon/BooKicket">BooKicket</a></b> <sub>(Next.js, Node.js, Express, MongoDB)</sub> — Digital reading platform focused on books, manga and HQs.
 - <b><a href="https://github.com/zKingDragon/SaaSFY">SaaSFY</a></b> <sub>(HTML, CSS, JS, Firebase)</sub> — SaaS library to indie enterprises publish own project.
 
 ---
